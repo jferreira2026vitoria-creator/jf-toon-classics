@@ -1,1 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Desenhos 24 Horas" group-title="24h Desenhos",Desenhos 24 Horas
+COLE_AQUI_O_LINK_DO_VIDEO
+
+#EXTINF:-1 tvg-name="Canal Infantil" group-title="Canais Infantil",Canal Infantil
+COLE_AQUI_O_LINK_DO_CANAL
