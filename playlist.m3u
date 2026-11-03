@@ -5,3 +5,5 @@ COLE_AQUI_O_LINK_DO_VIDEO
 
 #EXTINF:-1 tvg-name="Canal Infantil" group-title="Canais Infantil",Canal Infantil
 COLE_AQUI_O_LINK_DO_CANAL
+#EXTINF:-1 tvg-name="Boomerang" group-title="Canais Infantil",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
